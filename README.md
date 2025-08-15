@@ -204,10 +204,11 @@ For questions, suggestions, or collaboration, reach out via [LinkedIn](https://w
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
-**Made with ❤️ by YASH VERMA and Contributors❤️**
-[Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Watch Demo](https://health-report-analyzer.vercel.app/)
-    </p>
+**Made with ❤️ by YASH VERMA and Contributors❤️** [Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) | [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) | [Watch Demo](https://health-report-analyzer.vercel.app/)
+</p>
+    
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-> Stay consistent. Keep the streak alive. 🔥
+
+>Stay consistent. Keep the streak alive. 🔥
