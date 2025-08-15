@@ -205,8 +205,7 @@ For questions, suggestions, or collaboration, reach out via [LinkedIn](https://w
 
 <p align="center">
 **Made with ❤️ by YASH VERMA and Contributors❤️**
-
-    [Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Watch Demo](https://health-report-analyzer.vercel.app/)
+[Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Watch Demo](https://health-report-analyzer.vercel.app/)
     </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
