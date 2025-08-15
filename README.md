@@ -172,7 +172,7 @@ For questions, suggestions, or collaboration, reach out via [LinkedIn](https://w
 | Role          | Name               | GitHub Profile                                      | LinkedIn Profile                                                        |
 | ------------- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------- |
 | Project Admin | YASH VERMA   | [Health-Report-Analyzer](https://github.com/Rajput-xv/Health-Report-Analyzer)    | [yash-rajput-xv](https://www.linkedin.com/in/yash-rajput-xv/)       |
-| Mentor 1   | Gauri Madan |           | [anupriya-yadav](https://www.linkedin.com/in/gauri-madaan-b832a6252)           |
+| Mentor 1   | Gauri Madan |           | [gauri-madaan](https://www.linkedin.com/in/gauri-madaan-b832a6252)           |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -204,11 +204,10 @@ For questions, suggestions, or collaboration, reach out via [LinkedIn](https://w
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
+**Made with ❤️ by YASH VERMA and Contributors❤️**
 
-**Made with ❤️by YASH VERMA and Contributors❤️**
-
-[Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Watch Demo](https://health-report-analyzer.vercel.app/)
-
+    [Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Watch Demo](https://health-report-analyzer.vercel.app/)
+    </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
