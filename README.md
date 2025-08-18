@@ -65,7 +65,7 @@
 🏆 Get recognized for their work
 📜 Receive certificates and swag!
 
-🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this DevElevate project family!
+🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this Health-Report-Analyzer project family!
 Let’s build, learn, and grow together — one commit at a time. 🔥👨‍💻👩‍💻
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -142,7 +142,7 @@ See [`Code_Of_Conduct.md`](https://github.com/Rajput-xv/Health-Report-Analyzer/b
   </a>
 </p>
 
-See the full list of contributors and their contributions on the [`GitHub Contributors Graph`](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/graphs/contributors).
+See the full list of contributors and their contributions on the [`GitHub Contributors Graph`](https://github.com/Rajput-xv/Health-Report-Analyzer/graphs/contributors).
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -163,16 +163,16 @@ Contributions are welcome! If you have ideas for improving Aluma, feel free to o
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## 📬 Contact
+**📬 Contact**
 For questions, suggestions, or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/yash-rajput-xv/) or [open an issue](https://github.com/Rajput-xv/Health-Report-Analyzer/issues)!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 👥 Project Admin & 👨‍🏫 Mentors – Nitra Mitra (GSSoC'25)**
+**👥 Project Admin & 👨‍🏫 Mentors – Health-Report-Analyzer (GSSoC'25)**
 | Role          | Name               | GitHub Profile                                      | LinkedIn Profile                                                        |
 | ------------- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------- |
-| Project Admin | YASH VERMA   | [Health-Report-Analyzer](https://github.com/Rajput-xv/Health-Report-Analyzer)    | [yash-rajput-xv](https://www.linkedin.com/in/yash-rajput-xv/)       |
-| Mentor 1   | Gauri Madan |           | [gauri-madaan](https://www.linkedin.com/in/gauri-madaan-b832a6252)           |
+| Project Admin | YASH VERMA   | [Rajput-xv](https://github.com/Rajput-xv/)    | [yash-rajput-xv](https://www.linkedin.com/in/yash-rajput-xv/)       |
+| Mentor 1   | Gauri Madan |           | [anupriya-yadav](https://www.linkedin.com/in/gauri-madaan-b832a6252)           |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -203,12 +203,10 @@ For questions, suggestions, or collaboration, reach out via [LinkedIn](https://w
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-  **Made with 💚 YASH VERMA and Contributors 💚**  [Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) | [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) | [Watch Demo](https://health-report-analyzer.vercel.app/)
-   
-###### [Back to Top](#top)
-    
+**Made with ❤️ by YASH VERMA and Contributors ❤️**
+[Report Bug](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Request Feature](https://github.com/Rajput-xv/Health-Report-Analyzer/issues) • [Watch Demo](https://health-report-analyzer.vercel.app/)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
->Stay consistent. Keep the streak alive. 🔥
+> Stay consistent. Keep the streak alive. 🔥
