@@ -209,4 +209,11 @@ For questions, suggestions, or collaboration, reach out via [LinkedIn](https://w
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-> Stay consistent. Keep the streak alive. 🔥
+
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
+</div>
+
+>Stay consistent. Keep the streak alive. 🔥
